@@ -71,7 +71,7 @@ Termasuk seluruh Kabupaten/Kota dan Kecamatan di Jawa Barat.
 ## 🖼️ **Tangkapan Layar**
 
 <div align="center">
-  <img src="./assets/images/NIK Generator & Validator.jpg" alt="NIK Generator & Validator">
+  <img src="./assets/images/NIK Generator & Validator.jpg" alt="NIK Generator & Validator" width="490" height="307">
 </div>
 
 ---
