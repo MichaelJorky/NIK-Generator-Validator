@@ -60,7 +60,7 @@ Termasuk seluruh Kabupaten/Kota dan Kecamatan di Jawa Barat.
 │
 ├── assets/images/         # Ikon, gambar UI, screenshot aplikasi
 ├── database/
-│   └── jawa_barat.nik/    # Database wilayah (saat ini hanya Jawa Barat)
+│   └── database.nik/      # Database wilayah (saat ini hanya Jawa Barat)
 ├── logs/                  # Hasil output NIK Generator
 │
 └── README.md              # Dokumentasi proyek
