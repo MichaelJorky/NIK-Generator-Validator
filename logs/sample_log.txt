@@ -1,0 +1,2 @@
+Data NIK|Data KTP
+1234567890123456|Provinsi, Kota/Kabupaten, Kecamatan, Jenis Kelamin, Tanggal/Bulan/Tahun Kelahiran, Nomor Pendaftaran
